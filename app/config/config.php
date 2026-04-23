@@ -1,6 +1,7 @@
 <?php
 
-define('BASE_URL', 'http://localhost/web-digitara/public');
+// define('BASE_URL', 'http://localhost/web-digitara/public');
+define('BASE_URL', 'https://digitaramedan.site/website/public');
 date_default_timezone_set('Asia/Jakarta');
 
 // Database (opsional jika ingin koneksi database)
